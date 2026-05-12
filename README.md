@@ -11,4 +11,4 @@ El prototipo funcional está accesible en: [https://care-sync-hub--yesiidtoloza.
 - IoT: Simulación de dispositivos wearables
 
 ## Video Demostrativo
-(Pon aquí el enlace de YouTube cuando lo tengas listo)
+https://youtu.be/OkUVs-DIg5U 
